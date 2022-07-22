@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "koko-backend",
+    "koko-frontend"
+]
